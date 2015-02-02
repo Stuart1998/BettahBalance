@@ -1,0 +1,18 @@
+{
+    "enabled": true,
+    "context": "server",
+    "identifier": "BettahBalance",
+    "display_name": "BettahBalance",
+    "build": "77443",
+    "date": "2015/02/01",
+    "description": "Fixes a number of balance issues existential in vanilla Planetary Annihilation",
+    "category": [
+        "in-game",
+        "server-mod",
+		"balance"
+    ],
+    "author": "Stuart98",
+    "version": "1.0",
+    "signature": "(not yet implemented)",
+    "priority": 100
+}
