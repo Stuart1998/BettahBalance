@@ -28,7 +28,7 @@
     }
   },
   "base_spec": "/pa/units/land/base_bot/base_bot.json",
-  "build_metal_cost": 600,
+  "build_metal_cost": 550,
   "description": "!LOC(units:assault_bot_equipped_with_advanced_anti_land_and_anti_ship_lasers.message):Assault bot- Equipped with advanced anti-land and anti-ship lasers.",
   "display_name": "!LOC(units:slammer.message):Slammer",
   "events": {
@@ -45,7 +45,7 @@
     }
   },
   "guard_layer": "WL_AnySurface",
-  "max_health": 400,
+  "max_health": 600,
   "mesh_bounds": [
     9,
     4.5,

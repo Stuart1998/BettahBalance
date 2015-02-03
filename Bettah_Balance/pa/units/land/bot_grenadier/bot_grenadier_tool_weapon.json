@@ -5,6 +5,7 @@
   "base_spec": "/pa/tools/base_bot_weapon/base_bot_weapon.json",
   "firing_arc_pitch": 30,
   "firing_arc_yaw": 30,
+  "firing_standard_deviation": 1,
   "idle_aim_delay": 1.0,
   "max_firing_velocity": 10000,
   "max_range": 155,
