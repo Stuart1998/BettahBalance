@@ -14,5 +14,5 @@
   "lifetime": 30,
   "splash_damage": 300,
   "splash_damages_allies": false,
-  "splash_radius": 12
+  "splash_radius": 15
 }
