@@ -3,8 +3,8 @@
     "context": "server",
     "identifier": "BettahBalance",
     "display_name": "BettahBalance",
-    "build": "77443",
-    "date": "2015/02/01",
+    "build": "77725",
+    "date": "2015/02/04",
     "description": "Fixes a number of balance issues existential in vanilla Planetary Annihilation",
     "category": [
         "in-game",
