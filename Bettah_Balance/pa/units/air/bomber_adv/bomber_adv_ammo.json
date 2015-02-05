@@ -32,8 +32,8 @@
     "ignore_gravity": true,
     "radius": 1
   },
-  "splash_damage": 100,
-  "splash_radius": 10,
+  "splash_damage": 85,
+  "splash_radius": 7.5,
   "stages": [
     {
       "apply_thrust": false,
