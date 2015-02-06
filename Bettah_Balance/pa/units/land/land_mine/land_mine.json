@@ -42,8 +42,7 @@
   },
   "recon": {
     "observable": {
-      "ignore_sight": true,
-      "layer": "surface_and_air"
+      "layer": "mine"
     },
     "observer": {
       "items": [

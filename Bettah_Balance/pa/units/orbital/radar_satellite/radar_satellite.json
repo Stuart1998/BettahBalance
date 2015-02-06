@@ -22,7 +22,7 @@
     "ORDER_Assist"
   ],
   "consumption": {
-    "energy": 300
+    "energy": 700
   },
   "description": "!LOC(units:basic_radar_satellite_detects_a_large_area_for_enemy_land_sea_and_air_units.message):Basic radar satellite- Detects a large area for enemy land, sea, and air units.",
   "display_name": "!LOC(units:arkyd.message):ARKYD",
@@ -112,16 +112,9 @@
           "uses_energy": true
         },
         {
-          "channel": "radar",
-          "layer": "orbital",
-          "radius": 600,
-          "shape": "capsule",
-          "uses_energy": true
-        },
-        {
           "channel": "sight",
           "layer": "orbital",
-          "radius": 100,
+          "radius": 600,
           "shape": "capsule",
           "uses_energy": true
         },

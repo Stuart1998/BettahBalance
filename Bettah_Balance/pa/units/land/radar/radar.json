@@ -104,21 +104,14 @@
         {
           "channel": "radar",
           "layer": "surface_and_air",
-          "radius": 600,
+          "radius": 400,
           "shape": "capsule",
           "uses_energy": true
         },
         {
           "channel": "sight",
           "layer": "orbital",
-          "radius": 300,
-          "shape": "capsule",
-          "uses_energy": true
-        },
-        {
-          "channel": "radar",
-          "layer": "orbital",
-          "radius": 600,
+          "radius": 500,
           "shape": "capsule",
           "uses_energy": true
         },

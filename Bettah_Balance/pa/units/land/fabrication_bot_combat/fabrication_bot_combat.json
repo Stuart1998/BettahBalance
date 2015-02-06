@@ -118,6 +118,12 @@
           "layer": "underwater",
           "radius": 100,
           "shape": "capsule"
+        },
+        {
+          "channel": "radar",
+          "layer": "mine",
+          "radius": 300,
+          "shape": "capsule"
         }
       ]
     }

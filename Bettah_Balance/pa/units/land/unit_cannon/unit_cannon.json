@@ -99,7 +99,7 @@
       "type": "energy"
     }
   ],
-  "max_health": 3000,
+  "max_health": 9000,
   "mesh_bounds": [
     50,
     50,
