@@ -4,7 +4,7 @@
     "identifier": "BettahBalance",
     "display_name": "BettahBalance",
     "build": "77725",
-    "date": "2015/02/04",
+    "date": "2015/02/07",
     "description": "Fixes a number of balance issues existential in vanilla Planetary Annihilation",
     "category": [
         "in-game",
@@ -12,7 +12,7 @@
 		"balance"
     ],
     "author": "Stuart98",
-    "version": "1.0",
+    "version": "1.1",
     "forum": "https://forums.uberent.com/threads/rel-bettahbalance.67764/", 
     "signature": "(not yet implemented)",
     "priority": 100
