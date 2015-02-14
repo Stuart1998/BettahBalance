@@ -33,7 +33,7 @@
       "cue": "/SE/Selection/commander"
     }
   },
-  "build_metal_cost": 25000,
+  "build_metal_cost": 12500,
   "buildable_types": "CmdBuild",
   "command_caps": [
     "ORDER_Move",

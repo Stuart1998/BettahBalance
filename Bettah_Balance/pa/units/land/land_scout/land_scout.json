@@ -75,13 +75,19 @@
         {
           "channel": "sight",
           "layer": "surface_and_air",
-          "radius": 200,
+          "radius": 180,
           "shape": "capsule"
         },
         {
           "channel": "sight",
           "layer": "underwater",
-          "radius": 200,
+          "radius": 180,
+          "shape": "capsule"
+        },
+        {
+          "channel": "sight",
+          "layer": "mine",
+          "radius": 180,
           "shape": "capsule"
         }
       ]
