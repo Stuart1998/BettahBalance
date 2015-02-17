@@ -85,8 +85,8 @@
     "sync_radius_to_extents": true
   },
   "production": {
-    "energy": 3000,
-    "metal": 30
+    "energy": 2000,
+    "metal": 20
   },
   "recon": {
     "observer": {
@@ -109,8 +109,8 @@
   "show_in_orbital_layer": true,
   "si_name": "commander",
   "storage": {
-    "energy": 20000,
-    "metal": 1000
+    "energy": 30000,
+    "metal": 1500
   },
   "strategic_icon_priority": 0,
   "teleportable": {},
