@@ -110,9 +110,9 @@
           "uses_energy": true
         },
         {
-          "channel": "sight",
+          "channel": "radar",
           "layer": "orbital",
-          "radius": 500,
+          "radius": 10000,
           "shape": "capsule",
           "uses_energy": true
         },
