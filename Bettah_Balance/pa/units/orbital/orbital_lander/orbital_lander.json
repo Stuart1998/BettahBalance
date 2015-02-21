@@ -173,7 +173,7 @@
         {
           "channel": "sight",
           "layer": "orbital",
-          "radius": 100,
+          "radius": 300,
           "shape": "sphere"
         },
         {

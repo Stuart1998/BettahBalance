@@ -4,7 +4,7 @@
   "atrophy_cool_down": 15.0,
   "atrophy_rate": 0.416667,
   "base_spec": "/pa/units/land/base_structure/base_structure.json",
-  "build_metal_cost": 25,
+  "build_metal_cost": 30,
   "description": "!LOC(units:basic_defense_no_weapon_high_health.message):Basic defense- No weapon, high health.",
   "display_name": "!LOC(units:wall.message):Wall",
   "events": {

@@ -1,6 +1,6 @@
 {
   "construction_demand": {
-    "energy": 2200,
+    "energy": 2000,
     "metal": 30
   },
   "max_range": 20,
